@@ -1,0 +1,1 @@
+﻿SELECT * FROM TwitchInv WHERE NickName = 'itbadbird'

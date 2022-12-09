@@ -1,0 +1,1 @@
+﻿SELECT NickName FROM TwitchInv WHERE inForest = 'True'
